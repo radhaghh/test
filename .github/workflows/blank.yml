@@ -1,4 +1,4 @@
-name: programmingwithkumaresan
+name: PT
 
 on:
   workflow_dispatch:
